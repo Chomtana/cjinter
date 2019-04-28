@@ -1,0 +1,32 @@
+{
+  "name": "cjinter",
+  "version": "1.0.3",
+  "description": "Codejam Interactive Runner By Chomtana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "cjinter": "index.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chomtana/cjinter.git"
+  },
+  "keywords": [
+    "codejam",
+    "interactive",
+    "runner",
+    "chomtana"
+  ],
+  "author": "Chomtana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chomtana/cjinter/issues"
+  },
+  "homepage": "https://github.com/Chomtana/cjinter#readme",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
