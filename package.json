@@ -1,6 +1,6 @@
 {
   "name": "cjinter",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Codejam Interactive Runner By Chomtana",
   "main": "index.js",
   "scripts": {
