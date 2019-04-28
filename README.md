@@ -3,6 +3,8 @@ Codejam Interactive Runner By Chomtana
 
 ## Installation
 
+**Install node first https://nodejs.org/en/**
+
 ```
 npm install -g cjinter
 ```
@@ -49,3 +51,4 @@ cjinter -- python testing_tool.py 0 -- python sol.py
 * Codejam interactive runner don't stop program
 * How to use testing_tool.py
 * How to use interactive_runner.py
+* How to test codejam interactive problem
